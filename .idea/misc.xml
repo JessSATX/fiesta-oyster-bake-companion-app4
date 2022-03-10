@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/drawable/shuckie2022.xml" value="0.196" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/drawable/spinner_bg.xml" value="0.24" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/about_tab.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_about_oyster_bake.xml" value="0.2" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_admin_home_page.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_admin_login.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_admin_schedule.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_admin_stage_list.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_create_showtime.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_date_select.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_edit_showtime.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_export.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_friday_backup_map.xml" value="0.67" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_maps.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_schedule_list.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/activity_selected_artist.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/home_tab.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/merch_tab.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/layout/newinfo.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/rarrj/AndroidStudioProjects/fiesta-oyster-bake-companion-app/app/src/main/res/menu/menu_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
     <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
     <option name="myNullables">
       <value>
-        <list size="10">
+        <list size="12">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
           <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
           <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
@@ -16,12 +43,14 @@
           <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
           <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
           <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
         </list>
       </value>
     </option>
     <option name="myNotNulls">
       <value>
-        <list size="9">
+        <list size="11">
           <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
           <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
           <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
@@ -31,11 +60,13 @@
           <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
           <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
           <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="9" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
         </list>
       </value>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

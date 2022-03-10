@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                         "Home Page",
                         "Maps",
                         "Stages",
-                        "Developers",
+                        //"Developers", ***not sure we need this
                         "FAQs",
                         "Souvenirs"
                 }));

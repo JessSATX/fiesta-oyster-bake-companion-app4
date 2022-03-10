@@ -35,7 +35,7 @@ public class StageSelect extends AppCompatActivity {
             stage1.setText("Classic Rock Stage Presented by Bud Light, KONO 101.1 & The Eagle 106.7");
             stage2.setText("Country Stage Presented by Bud Light & Y100");
             stage3.setText("Tejano & Latin Stage Presented By Bud Light & KXTN 107.5");
-            stage5.setText("R&B & Hip Hop Stage Presented by Bud Light &The Beat 98.5");
+            stage5.setText("R&B & Hip Hop Stage Presented by Bud Light & KBBT 98.5");
             stage6.setText("Children’s & Family Stage");
 
         } else {

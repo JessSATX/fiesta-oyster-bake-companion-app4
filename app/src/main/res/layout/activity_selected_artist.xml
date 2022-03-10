@@ -13,7 +13,7 @@
         android:adjustViewBounds="true"
         android:maxHeight="169dp"
         android:scaleType="fitCenter"
-        android:src="@drawable/shuckie2019confetti" />
+        android:src="@drawable/shuckie2022png" />
 
     <TextView
         android:id="@+id/artist_name"
